@@ -1,0 +1,50 @@
+
+
+Table CONSTRUTORA created.
+
+Elapsed: 00:00:00.020
+
+ORA-00955: name is already used by an existing object
+
+https://docs.oracle.com/error-help/db/ora-00955/Error at Line: 4 Column: 0 
+
+
+ORA-00955: name is already used by an existing object
+
+https://docs.oracle.com/error-help/db/ora-00955/Error at Line: 4 Column: 0 
+
+
+ORA-00955: name is already used by an existing object
+
+https://docs.oracle.com/error-help/db/ora-00955/Error at Line: 15 Column: 0 
+
+
+
+Table CATEGORIA created.
+
+Elapsed: 00:00:00.011
+
+
+Table OBRA created.
+
+Elapsed: 00:00:00.014
+
+
+Table TRABALHADOR created.
+
+Elapsed: 00:00:00.011
+
+
+Table EQUIPAMENTO created.
+
+Elapsed: 00:00:00.013
+
+
+Table TELEFONE created.
+
+Elapsed: 00:00:00.013
+
+
+Table OBRA_EQUIPAMENTO created.
+
+Elapsed: 00:00:00.011
